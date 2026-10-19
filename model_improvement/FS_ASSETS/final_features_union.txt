@@ -1,0 +1,13 @@
+cat__building_type_int_2
+cat_build_year_bin_hig
+cat_building_type_int_2
+latitude
+longitude
+num__num_raw__distance_to_center_km
+num__num_raw__living_share
+num__pol__ceiling_height distance_to_center_km
+num__pol__distance_to_center_km^2
+num__pol__total_area ceiling_height
+num__q__kitchen_area
+num__spl__distance_to_center_km_sp_0
+num__spl__distance_to_center_km_sp_3
